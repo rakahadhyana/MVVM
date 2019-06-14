@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <string name="add_text">Add Text</string>
+    <string name="insert_text">Insert text</string>
+</resources>
